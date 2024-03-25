@@ -1,9 +1,9 @@
 # [P.O.C] HANGFIRE
-### [ENGLISH](READMEEnglish.md)
+### [English](READMEEnglish.md)
 
 ## Finalidade desse Repositorio
 
-O Objetivo desses repositorios [POCS] é demostrar qualquer prova de conceito.
+O Objetivo desses repositorios [POCs] é demostrar qualquer prova de conceito.
 
 ## HANGFIRE
 
